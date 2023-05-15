@@ -70,7 +70,11 @@ gap: 1rem;
 
 .bx-plus {
     background-color: rgb(0, 0, 0);
-    padding: 1rem;
+    padding: 0.8rem;
+    border-radius: 50%;
+    color: #d0dce0;
+    font-size: 1.5rem;
+    top: auto;
     
     
     
