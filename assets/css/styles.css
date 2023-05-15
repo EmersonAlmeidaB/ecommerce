@@ -71,12 +71,7 @@ gap: 1rem;
 .bx-plus {
     background-color: rgb(0, 0, 0);
     padding: 1rem;
-    border-radius: 50%;
-    color: #ffffff;
-    font-size: 1.3rem;
-    cursor: pointer;
-    margin-left: 0;
-    margin-top: -10;
+    
     
     
 }
